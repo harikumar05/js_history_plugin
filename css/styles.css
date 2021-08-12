@@ -1,0 +1,23 @@
+body{
+	margin: 0px;padding: 0px;font-family: Montserrat,Helvetica,Arial,Sans-serif;font-size: 12px;
+}
+.container{
+}
+.header{
+	width: 100%;
+}
+header,.content{
+	position: relative;width: calc(100% - 20px);max-width: 1024px;margin: 0 auto;padding: 10px;
+}
+header{
+	height: 40px;background: #000000;color: #ffffff;display: flex;
+}
+nav a{
+	text-decoration: none;color: #ffffff;
+}
+.logdetails{
+	padding: 5px 0px;text-align: right;
+}
+.content{
+
+}
